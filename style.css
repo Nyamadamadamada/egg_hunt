@@ -1,0 +1,26 @@
+.egg-hunt-item {
+    position: absolute;
+    left: 50%;
+    height: auto;
+    z-index: 99999;
+}
+#egg-hunt-item1 {
+    width: 20px;
+    animation: 0.2s ease-in 1s forwards move_egg1;
+}
+#egg-hunt-item2 {
+    width: 30px;
+    animation: 0.2s ease-in 1s forwards move_egg2;
+}
+#egg-hunt-item3 {
+    width: 50px;
+    animation: 0.2s ease-in 1s forwards move_egg3;
+}
+#egg-hunt-item4 {
+    width: 40px;
+    animation: 0.2s ease-in 1s forwards move_egg4;
+}
+#egg-hunt-item5 {
+    width: 20px;
+    animation: 0.2s ease-in 1s forwards move_egg5;
+}
