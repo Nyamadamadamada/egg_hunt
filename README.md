@@ -1,5 +1,5 @@
 # Chrome拡張機能「EggHunt:エッグハントで遊ぼう」
-![プロモーション用](https://user-images.githubusercontent.com/74456418/158061224-249cc4b7-f422-40b5-89c5-c41c63158ace.png)
+<img src="https://user-images.githubusercontent.com/74456418/158061224-249cc4b7-f422-40b5-89c5-c41c63158ace.png" width="600" />
 
 エッグハントはイースターの楽しい遊び！Chromeのサイトからイースターエッグを探して遊びましょう！  
 卵は新しい生命の象徴と言われており、イースターエッグはイースターの特別な飾りのほか、春の象徴を意味します。  
@@ -32,3 +32,12 @@
 詳しくは公式サイトより  
 Chrome Developer  
 https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked
+
+
+## Version
+
++ 1.1  
+誤字修正、ゲーム中断時の文言修正、manifest.json内の不要な要素削除
+
++ 1.0（申請中）  
+リリース
