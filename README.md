@@ -20,9 +20,6 @@
 ![サムネイル2](https://user-images.githubusercontent.com/74456418/158061245-1769efe8-57ef-4a97-89fb-c44cd3c71d8f.png)
 
 
-## ...申請中（2022.3.13）
-
-
 ## ローカルで起動する方法
 1. chrome://extensions にアクセス
 2. 「パッケージ化されていない拡張機能を読み込む」を選択
